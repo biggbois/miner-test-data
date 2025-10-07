@@ -1,0 +1,120 @@
+{
+  "challenge_uid": "ac9c600d-c159-4624-bc7f-1c8eb3fa0b8a",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "11aa1dcc-fc56-4827-8835-664edcc53b22",
+      "language": "en",
+      "utterances": [
+        "So how do you separate the hype from what's real?",
+        "I mean, it sounds like with all of that square footage of space and all of these big names coming, you could easily just get dazzled.",
+        "Psychotherapy is generally popular in Brazil.",
+        "The government does provide some free services, but health care professionals say accessing the right kind of treatment can be difficult.",
+        "People with mental issues can also be stigmatized, says Marisa Vicente, who's come to the square for counseling.",
+        "(Through interpreter) People ask, why do you want psychoanalysis?",
+        "Are you going mad?",
+        "The behavior profiling, as they call it, is similar to procedures that have been used successfully in Israel for decades.",
+        "Now as the system expands here, so do questions about how behavior detection works and how effective it might be in this country.",
+        "NPR's Tovia Smith reports.",
+        "We've all seen the usual airport pat-downs.",
+        "This is what you may call a chat-down.",
+        "Hello.",
+        "Hi.",
+        "How are you today?",
+        "Fine, thanks."
+      ]
+    },
+    {
+      "dialogue_uid": "fa69cb03-1ce8-4525-8072-191dc6ab39ba",
+      "language": "en",
+      "utterances": [
+        "I'm just going to ask you a few questions.",
+        "OK?",
+        "Sure.",
+        "Blue-uniformed TSA officials spend a minute or two peppering passengers with basic questions like where they're going, for what and for how long.",
+        "Some travelers may not even speak English, but the behavior detection officers care less about answers than affect.",
+        "We're looking for behaviors that are out of norm and some kind of indicators of intent to cause a problem.",
+        "George Nacarra, the TSA's security director in Boston, says there's a long list of hints or tells that can out a bad guy planning to do bad things.",
+        "The movement of the eyes, perspiring in a cool environment, the Adam's apple movement.",
+        "I can't be more specific, because they're somewhat classified.",
+        "Nacarra says he doesn't want the list to end up in some terrorist's training manual, but experts say most of what they're looking for are physiological reactions that are impossible to repress.",
+        "That's like saying don't have a heartbeat.",
+        "That's Marc Salem, who's made a career as a consultant to law enforcement and a performer so good at reading people's non-verbal cues, you'd think he was reading your mind.",
+        "All right.",
+        "Let's try an example of this.",
+        "Just pick a two-digit number between 50 and 100, both digits even, okay?"
+      ]
+    },
+    {
+      "dialogue_uid": "2fb57728-ab57-4994-a525-c1a4a80a2a1e",
+      "language": "en",
+      "utterances": [
+        "Fifty and 100.",
+        "Yes.",
+        "Okay.",
+        "Okay.",
+        "Have you done it?",
+        "Yup.",
+        "Normally, Salem would be looking for visual cues - a shuffle or a fidget.",
+        "But we're on the phone, so his only clues are things like voice quality, hesitations, or in this case, even less.",
+        "Say nothing aloud.",
+        "I'm just going just to work off of breath.",
+        "Hold your mouth next to the phone, I'm going to do this very rapidly - 51, 52, 53, 54, 55,56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68 - 68.",
+        "It was 68.",
+        "Yeah.",
+        "How did you know that?"
+      ]
+    },
+    {
+      "dialogue_uid": "04f79c46-daa2-4543-bb0f-23e03d22282a",
+      "language": "en",
+      "utterances": [
+        "Here, even your tongue made a little, little click.",
+        "Want to hear that click again?",
+        "(SOUNDBITE OF CLICK)",
+        "Pretty subtle stuff.",
+        "But Salem says he was listening for something like that.",
+        "He knew I'd try and control my breathing.",
+        "If you hold up something, if you clog one channel of information, it's got to come out somewhere else.",
+        "In fact, the TSA has a list of about 35 things they're listening and looking for, including a facial expression of fear, for example.",
+        "A really good poker face could make that less obvious.",
+        "But Paul Ekman, a behavioral expert and long-time TSA consultant, says facial muscles will still move for a split second and officers can be taught to spot that.",
+        "All we're doing is training your eyes to be able to grab very, very fast expressions.",
+        "I mean, this is like - you know how football players learn to get peripheral vision and to spot people who are going try to tackle them?",
+        "It's the same kind of thing.",
+        "We're training a visual skill.",
+        "The tricky part is sorting out whether a passenger is just nervous about traveling, for example, or about the bomb in his shoe.",
+        "And while the Israelis seem to have mastered that, experts say Americans face unique challenges.",
+        "There's greater sensitivity in the U.S.",
+        "to racial and ethnic profiling.",
+        "And there are so many more travelers, TSA officers will have to screen way more passengers in much less time.",
+        "Who knows?",
+        "Maybe they'll turn out to be great at it, but I wouldn't say they go so far as to inspire a lot of confidence.",
+        "Glenn Reynolds, a law professor at the University of Tennessee and critic of the TSA, says behavior-detection officers in the U.S.",
+        "tend to be lower-ranking and less educated than the Israelis, and may not be up to the task."
+      ]
+    },
+    {
+      "dialogue_uid": "2d703ba8-ecc2-4087-8792-283d88971045",
+      "language": "en",
+      "utterances": [
+        "It would be like deciding that you're going to suddenly do brain surgery in every MinuteClinic around the country.",
+        "You can't just retrain those people who may be perfectly good at, you know, dealing with poison ivy and sinus infections to suddenly do brain surgery.",
+        "I mean, it's just a different level.",
+        "But TSA officials say their goal is not so much to identify terrorists in 30 seconds, but rather just to sort out higher-risk passengers for more screening.",
+        "And they say officers who've been doing this sporadically have already proven themselves by rooting out untold drug smugglers and fugitives, for example.",
+        "The TSA's George Nacarra says officers will also get extra training.",
+        "It may change.",
+        "It may be that we have to seek other qualifications in our workforce, but that's the reason for a pilot test like this.",
+        "Ultimately, Nacarra says, you have to try every tool you've got, both to find the bad guys and to deter them.",
+        "As one expert put it, as long as the bad guys believe this works, that's half the battle.",
+        "Tovia Smith, NPR News, Boston.",
+        "(SOUNDBITE OF MUSIC)",
+        "You're listening to MORNING EDITION, from NPR News.",
+        "To get 218 votes in the House, Speaker John Boehner would need to go one of two places.",
+        "He would either need to ask Democrats for help, which his team would rather not do, or he would need to round up at least some first-year lawmakers with Tea Party credentials, lawmakers who prefer a bill that cuts spending more.",
+        "NPR's Greg Allen visited the congressman's district."
+      ]
+    }
+  ]
+}

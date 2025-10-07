@@ -1,0 +1,120 @@
+{
+  "challenge_uid": "2be1012c-df0c-49f5-b6a5-722ba0f48f2f",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "91626e1f-84c4-4cf8-944f-22db44a831fe",
+      "language": "en",
+      "utterances": [
+        "Thank you very much.",
+        "Jill Starishevsky, creator of How's My Nanny Web site and license plates, a prosecutor and mother of two.",
+        "She joined us from our bureau in New York City.",
+        "We're going to talk more about the pros and cons of a snitch society and take more of your calls when we come back from a break: 800-989-8255.",
+        "E-mail us: talk@npr.org.",
+        "I'm Neal Conan.",
+        "It's TALK OF THE NATION from NPR News.",
+        "This is TALK OF THE NATION.",
+        "I'm Neal Conan, in Washington.",
+        "We've all seen those brightly colored How's My Driving stickers on delivery trucks for years.",
+        "Today we're talking about what's next in public reporting on public activities and the pros and cons of neighbors snitching on each other.",
+        "If you'd like to join the conversation, our number is 800-989-8255, 800-989-TALK.",
+        "Our e-mail address is talk@npr.org.",
+        "And joining us now is Lior Strahilevitz.",
+        "He's an assistant professor of law at the University of Chicago Law School, and he thinks every car should have a How's My Driving sticker on it.",
+        "Mr. Strahilevitz, why do you think all of us should have this?",
+        "We know a lot of trucks do, that a company put them on there.",
+        "Well, I think we can start with the - what Jill Starishevsky alluded to, which is that with respect to buses and commercial trucks and vans these How's My Driving stickers seem to work quite well.",
+        "The best available studies do suggest that after these placards are placed on the backs of vehicles, accident reductions ranging from 20 to 53 percent for fleets occur.",
+        "I think one thing that drew me to this topic, and one thing that drew me to this idea, is a dissatisfaction with the way the current system regulates traffic.",
+        "Traffic police focus almost exclusively on catching speeders, and drivers who engage in equally unsafe practices, like tailgating, unsafe lane changes, failures to lead - failures to yield - excuse me - and running stop signs, are rarely punished."
+      ]
+    },
+    {
+      "dialogue_uid": "9be361b8-d604-4b5c-a317-6fe4955febc7",
+      "language": "en",
+      "utterances": [
+        "The police can't be everywhere at once, but we motorists can.",
+        "So I want to propose a system with fewer traffic police and more reliance on us citizen police, who are in our cars watching other people drive badly and increasingly frustrated about the impotence that we feel when we're unable to do anything other than perhaps use an expletive or mutter silently to ourselves.",
+        "How would you control for malicious calls or people making judgments based on prejudices rather than on actual bad driving?",
+        "It's a great question.",
+        "Whenever we have a system that relies on feedback of any kind - so we could think about the eBay feedback points, we could think about Slashdot's karma system whereby users who are participating in Slashdot, essentially an online news provider, they're constantly ranking and commenting on the comments and news stories that other people post.",
+        "Now in any system like this, there's going to be large numbers of inaccurate comments, small numbers, perhaps medium numbers, of deliberately inaccurate comments.",
+        "But the idea is that if you get enough people to participate in the system, the law of large numbers makes those inaccurate comments fairly easy to disregard or marginalize.",
+        "So let me give you one example, right, the Zagat guide.",
+        "We all know it.",
+        "In many cities it's the bible for deciding whether you want to go to a restaurant or not.",
+        "(Soundbite of laughter)",
+        "Well, in any city in which the Zagat guide is published, there are some people who are going to say the Olive Garden is the best restaurant in town.",
+        "Now there will be lots of other people who suggest contrary opinions, and the Zagat editors can sort through the many submissions that they get and conclude whether in fact this suggestion that the Olive Garden is the best restaurant in town represents a consensus or whether it represents an idiosyncratic view.",
+        "And you would try and do the same thing with the traffic system.",
+        "Or whether it's the owner of the Olive Garden writing in several times.",
+        "Well, and that's a big problem.",
+        "So Web sites like Trip Advisor, which is a wonderful Web site for rating hotels, restaurants, etc. Trip Advisor has to do quite a bit of policing to make sure that neither the entrepreneurs nor their families are responsible for favorable feedback.",
+        "So that's something that quite frankly Web sites like Trip Advisor investing lots of resources in.",
+        "I think that their technologies for sorting out the accurate and the inaccurate are improving.",
+        "Frankly, we're not all the way there yet, and people that I've talked to in the software industry suggest that there are increasingly sophisticated algorithms for sorting out the accurate and the inaccurate.",
+        "Now the idea behind How's My Driving for everyone would simply be that there are a relatively small number of bad drivers, aggressive drivers, who make life unpleasant on the roads for all of us.",
+        "So for example, if a driver occasionally gets a bad report, once a year, once every other year, complaining about their conduct, it'd be fairly easy to disregard that and not forward that type of report to the insurance companies, not forward it to the government."
+      ]
+    },
+    {
+      "dialogue_uid": "9feb08bb-1f0b-4f47-9509-ce9bbf8836bd",
+      "language": "en",
+      "utterances": [
+        "But there's going to be some drivers out there who are generating 10, 20 calls from different frustrated motorists every year, and we know that these people are the ones who are likely to be eventually getting into accidents, crashing into people.",
+        "Well, why don't we get some feedback from the public in terms of phone calls: 800-989-8255.",
+        "Wonderful.",
+        "Let's turn to Al.",
+        "Al's calling us from Portland, Oregon.",
+        "Hi, there.",
+        "Hi.",
+        "I - this nanny snitch is a great idea, I'll have to say, but there is another side to it, and it sort of relates to the current discussion, too.",
+        "Is that I was - had my daughter with me.",
+        "I'm a truck driver.",
+        "I had my daughter with me, and we stopped at a restaurant.",
+        "And we left the restaurant, and within three minutes of leaving the restaurant, there was a state police car pulling us over.",
+        "Somebody had called in and said this truck driver is leaving with this girl that doesn't belong to him.",
+        "(Soundbite of laughter)",
+        "And it was like, whoa, this is really bizarre, because she was my daughter.",
+        "Right."
+      ]
+    },
+    {
+      "dialogue_uid": "7c1a8d68-a60d-402c-ac9f-a2817416bd81",
+      "language": "en",
+      "utterances": [
+        "She went in with me to the restaurant, we sat there and we ate in the restaurant, went out of the restaurant together, and got in our truck and left.",
+        "That was - you know, so there's another side to this snitch idea.",
+        "There's - you can be doing perfectly legitimate things and get busted.",
+        "I did tell the policeman that I - you know, if my daughter were being kidnapped, I really would like that kind of reaction.",
+        "Yes.",
+        "But that wasn't the case.",
+        "But presumably nothing terrible happened as a result.",
+        "No, no.",
+        "Have you ever been - do you have...",
+        "But I did have to prove to him that he was - that she was my daughter.",
+        "Do you have one of those How's My Driving bumper stickers?",
+        "No, we don't.",
+        "My company doesn't have those, but we have big signs on the sides of our trucks that say who we are, and it's not difficult to get in touch with my company."
+      ]
+    },
+    {
+      "dialogue_uid": "c1139dad-450e-4bab-a293-2524f0b5f64b",
+      "language": "en",
+      "utterances": [
+        "And has anybody called the company to complain or praise your driving?",
+        "No, not either way.",
+        "Hmm, all right, Al, thanks very much.",
+        "All right.",
+        "Bye-bye.",
+        "Thank you.",
+        "And Al does point out, you know, a potential problem here.",
+        "Well, I think any system that tries to enforce the law, whether it be the rules of the road or the rules governing kidnapping, is going to run into the problem of the false positive.",
+        "So clearly, Al experienced a false positive.",
+        "False positives can arise through citizen reporting, though they can also arise through police enforcement of law, right?",
+        "So it could just have easily been a cop sitting in the diner who acting on his own initiative made the mistake of thinking that Al was involved in something untoward with the young woman -",
+        "Sure."
+      ]
+    }
+  ]
+}

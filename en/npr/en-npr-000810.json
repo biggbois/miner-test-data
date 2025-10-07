@@ -1,0 +1,123 @@
+{
+  "challenge_uid": "2677bc23-7844-425e-8536-83011cbd3ed1",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "6b28cc29-44e3-4eb7-a2c6-8417f88b05b7",
+      "language": "en",
+      "utterances": [
+        "(Foreign language spoken)",
+        "He says thousands of protesters have been detained, hundreds of these have been tortured.",
+        "And he says the army destroyed homes in Hama while people were still inside.",
+        "Then, in perhaps the most shocking segment of the video, he names names.",
+        "(Foreign language spoken)",
+        "The minister of interior and various officers in the military and intelligence agencies, men he says are directly responsible for the deaths.",
+        "He says he'll provide documents and witnesses at a later time.",
+        "Never think that God is oblivious to what the unjust are doing.",
+        "(Foreign language spoken)",
+        "Bakkour then issued another video statement.",
+        "It was first broadcast on the Saudi-owned TV network Al Arabiya.",
+        "Bakkour wears the same sport coat - this time with no tie.",
+        "(Foreign language spoken)",
+        "Kelly McEvers, NPR News, Beirut.",
+        "Angelo Mozilo, cofounder of Countrywide Financial Corporation.",
+        "Countrywide grew at a spectacular pace and became the nation's biggest home lender, but then it started to unravel in equally dramatic fashion when the crisis hit.",
+        "Critics accused the company of sloppy and aggressive lending practices, and yesterday, the Securities and Exchange Commission went a lot farther.",
+        "It is bringing a civil suit against Mozilo, charging him with fraud.",
+        "NPR's Chris Arnold has more."
+      ]
+    },
+    {
+      "dialogue_uid": "41ffd776-0cd2-483c-bd4a-3c840ad1d6d7",
+      "language": "en",
+      "utterances": [
+        "Angelo Mozilo ran Countrywide.",
+        "You might have seen him testifying before Congress about the foreclosure mess.",
+        "He always sported a crisp suit and an ever-present tan.",
+        "That earned him some nicknames in the industry, the Orange King, or Tangelo instead of Angelo.",
+        "But Mozilo's bigger claim to fame is that he made a lot of money selling his Countrywide stock before the bottom fell out of his company, upwards of several hundred million dollars.",
+        "Now the SEC is going after at least some of that money.",
+        "We are charging Mr. Mozilo with insider trading.",
+        "According to our complaint, Mozilo raked in nearly $140 million while fully aware that Countrywide's business model was deteriorating and faced a bleak future.",
+        "Robert Khuzami is the director of the SEC's division of enforcement.",
+        "He announced the charges at a press conference yesterday afternoon.",
+        "It's no secret now, that during the housing boom, Countrywide made a lot of bad loans.",
+        "That's why the company got into so much trouble, and Bank of America bought it for a fraction of its former value.",
+        "But the government is alleging that back when he was selling his stock, Mozilo was lying about how bad things were getting for the company.",
+        "In Mozillo's words, Countrywide was, quote, \"\"A role model to others in terms of responsible lending.\"\" But the real story was very different.",
+        "Khuzami singled out one type of loan called a pay-option ARM.",
+        "These are loans where the homeowners can choose to pay a very small monthly payment, at least for a while.",
+        "Down the road, the payments often get much bigger, making the loans hard to afford.",
+        "Often Countrywide and other lenders never documented whether borrowers could afford those higher payments.",
+        "While Countrywide told the world that they were prudently underwriting these pay-option ARMS, the fact is that Mozilo himself wrote in an email that Countrywide was flying blind when it came to how these mortgages would perform in the future.",
+        "In another email released by the SEC, Mozilo called one type of the company's sub-prime loans, quote, \"\"the most dangerous product in existence, and there can be nothing more toxic,\"\" end quote.",
+        "So as in other high profile cases lately, emails are likely to play a central role.",
+        "Scott Myers is a securities defense lawyer in Chicago."
+      ]
+    },
+    {
+      "dialogue_uid": "4eb1b5d2-32d4-438f-9c64-1c6f3e207c8b",
+      "language": "en",
+      "utterances": [
+        "These types of cases typically turn on what did someone know and when did they know it, and in the electronic age that becomes increasingly easier to determine, particularly when you can see the emails written in real time that purport to explain what these people actually knew and what they were thinking.",
+        "It was fun.",
+        "I got yard signs that--you know, I had forums at public places.",
+        "And you went door to door?",
+        "Correct.",
+        "So what's your platform?",
+        "What are you promising the residents?",
+        "Well, we've got to revitalize the economy, and we also have to--we also need to, you know, like I said, improve relationships with the public services.",
+        "We have to make these people respect us once again.",
+        "Well, with all due respect to you, you are still a high school senior, so...",
+        "Right.",
+        "...how do you plan to go about doing that?"
+      ]
+    },
+    {
+      "dialogue_uid": "cf4d09bc-2d01-40ea-bfcc-3042c3539635",
+      "language": "en",
+      "utterances": [
+        "Just like any other part-time job that any other mayor would have.",
+        "The current mayor owns a business in town.",
+        "And from 7:50 to 2:30, I'll be a student.",
+        "From 3 to 6, I'll be the mayor of Hillsdale, working on mayor stuff.",
+        "Mayor stuff.",
+        "I assume most of the city employees are older than you are?",
+        "Right.",
+        "So how are you going to go about winning their respect?",
+        "I'll just show them respect.",
+        "That's what I've always done.",
+        "Why did you want to become mayor of Hillsdale?",
+        "Well, I thought every race has run unopposed here in the city, and I thought I could make a difference.",
+        "And did you think you'd actually win?",
+        "I was optimistic the whole time.",
+        "Mayor-elect Michael Sessions, the 18-year-old mayor of Hillsdale, Michigan, thank you for joining us."
+      ]
+    },
+    {
+      "dialogue_uid": "32486167-f947-48b8-b748-22a60b594b7a",
+      "language": "en",
+      "utterances": [
+        "Thank you.",
+        "Good luck.",
+        "Thank you.",
+        "NPR's DAY TO DAY continues.",
+        "I'm Madeleine Brand.",
+        "Venezuela could be moving closer to a dictatorship under President Nicolas Maduro, and that's because the Supreme Court has dissolved the National Assembly.",
+        "That's the country's congress.",
+        "It was the last remnant of opposition inside the government.",
+        "Today, Venezuela's powerful attorney general said that move violates the constitution, and she's greatly concerned.",
+        "Javier Corrales is a professor at Amherst College who studies Latin American democracies, and here's what he said about the Supreme Court's move.",
+        "It was surprising because it was very bold, but it fit perfectly well with what the government had been doing for the past year, which is to figure out ways to disable the National Assembly.",
+        "So in the end, it's part of a process of cracking down on the opposition and eliminating the system of checks and balances in Venezuela.",
+        "You're in touch with people in Venezuela, and this country, as we know, has been in a severe economic crisis for years.",
+        "How are people reacting to this - what some would call a political crisis?",
+        "I think we are at a point in Venezuela where most Venezuelans consider themselves right now in opposition to the government.",
+        "This opposition is based on two major complaints.",
+        "The first one is the gradual reduction of pluralism and political freedoms and, secondly, the economic crisis, which is by far the worst economic crisis in the history of Venezuela, the worst economic crisis of any petro-state or oil state at the moment.",
+        "So this is a very unlivable country for those who are not close to power.",
+        "And though it's too early to tell whether this particular occurrence today might trigger more instability than what we have already witnessed, there's no question that there is significant widespread discontent in Venezuela against the government."
+      ]
+    }
+  ]
+}
