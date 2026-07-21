@@ -1,0 +1,190 @@
+{
+  "challenge_uid": "challenge-1784535696-1b911b82",
+  "language": "fr",
+  "source_language": "fr",
+  "target_language": "en",
+  "derived_from": "results.babelbit.ai/dialogue-scores+local-chatterbox-tts",
+  "dialogues": [],
+  "utterances": [
+    {
+      "utterance_id": "0",
+      "utterance_index": 0,
+      "dialogue_index": 0,
+      "dialogue_utterance_index": 0,
+      "source_text": "Nous sommes l\u00e9g\u00e8rement en retard sur le dossier du client, donc l'approbation devra \u00eatre report\u00e9e au prochain week-end.",
+      "production_ground_truth": "On are slightly behind on the client file, so the approval will need to be moved to next week.",
+      "production_transcript": "",
+      "production_accuracy": 0.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "On are slightly behind on the client file, so the approval will need to be moved to next week.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "1",
+      "utterance_index": 1,
+      "dialogue_index": 1,
+      "dialogue_utterance_index": 1,
+      "source_text": "J'ai sorti pour acheter du pain, je me suis \u00e9gar\u00e9 dans une conversation avec le voisin, et je suis finalement oubli\u00e9 l'id\u00e9e de la boulangerie.",
+      "production_ground_truth": "I went out to buy bread, got sidetracked by a chat with the neighbor, and ended up forgetting the bakery entirely.",
+      "production_transcript": "",
+      "production_accuracy": 0.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "I went out to buy bread, got sidetracked by a chat with the neighbor, and ended up forgetting the bakery entirely.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "2",
+      "utterance_index": 2,
+      "dialogue_index": 2,
+      "dialogue_utterance_index": 2,
+      "source_text": "Merci de \u00eatre l\u00e0. Je vais d'abord pr\u00e9senter le projet, puis aborder le budget et la timeline.",
+      "production_ground_truth": "Thank you for being here. I\u2019ll first outline the project, then cover the budget and timeline.",
+      "production_transcript": "",
+      "production_accuracy": 0.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "Thank you for being here. I\u2019ll first outline the project, then cover the budget and timeline.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "3",
+      "utterance_index": 3,
+      "dialogue_index": 3,
+      "dialogue_utterance_index": 3,
+      "source_text": "On ne peut plus faire comme \u00e7a : couper les r\u00e9parations \u00e9conomise tr\u00e8s peu et conduit \u00e0 de gros dysfonctionnements plus tard.",
+      "production_ground_truth": "We cannot keep doing this: cutting maintenance saves very little and leads to major breakdowns later.",
+      "production_transcript": "We cannot continue this unsustainable maintenance cut. It wastes resources and causes the system to fail immediately.",
+      "production_accuracy": 0.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "We cannot keep doing this: cutting maintenance saves very little and leads to major breakdowns later.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "4",
+      "utterance_index": 4,
+      "dialogue_index": 4,
+      "dialogue_utterance_index": 4,
+      "source_text": "Je me souviens encore de l'ancien d\u00e9p\u00f4t ; on y passait des dimanches avec mon fr\u00e8re et on restait souvent dans son petit caf\u00e9.",
+      "production_ground_truth": "I still remember the old station; we spent Sundays there with my brother and stayed for hours in its little caf\u00e9.",
+      "production_transcript": "I still remember going to the old station with my brother on Sundays, staying there for hours at the simple Buffett.",
+      "production_accuracy": 0.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "I still remember the old station; we spent Sundays there with my brother and stayed for hours in its little caf\u00e9.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "5",
+      "utterance_index": 5,
+      "dialogue_index": 5,
+      "dialogue_utterance_index": 5,
+      "source_text": "Cache est une petite m\u00e9moire stockage pr\u00e8s du processeur qui acc\u00e9l\u00e8re tout en gardant les donn\u00e9es fr\u00e9quemment utilis\u00e9es \u00e0 port\u00e9e de main.",
+      "production_ground_truth": "Cache is a small memory store near the processor that speeds things up by keeping frequently used data close at hand.",
+      "production_transcript": "Cache is a small storage near the processor to keep frequently accessed data ready, avoiding the need to fetch it from elsewhere.",
+      "production_accuracy": 0.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "Cache is a small memory store near the processor that speeds things up by keeping frequently used data close at hand.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "6",
+      "utterance_index": 6,
+      "dialogue_index": 6,
+      "dialogue_utterance_index": 6,
+      "source_text": "Au d\u00e9but, le film \u00e9tait confus, mais ensuite tout s'est mis en place et c'est tr\u00e8s intelligent.",
+      "production_ground_truth": "At first the film was confusing, but then everything connected and it turned out to be very clever.",
+      "production_transcript": "The movie started confusingly, but then everything connected and became surprisingly smart.",
+      "production_accuracy": 0.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "At first the film was confusing, but then everything connected and it turned out to be very clever.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "7",
+      "utterance_index": 7,
+      "dialogue_index": 7,
+      "dialogue_utterance_index": 7,
+      "source_text": "Il y avait des probl\u00e8mes, mais des ajustements ont \u00e9t\u00e9 faits et les n\u00e9gociations pourraient reprendre partiellement bient\u00f4t.",
+      "production_ground_truth": "There were problems, but adjustments have been made and talks may partially resume soon.",
+      "production_transcript": "While difficulties were encountered, adjustments have been made, allowing for a partial resumption of exchanges soon.",
+      "production_accuracy": 0.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "There were problems, but adjustments have been made and talks may partially resume soon.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "8",
+      "utterance_index": 8,
+      "dialogue_index": 8,
+      "dialogue_utterance_index": 8,
+      "source_text": "J'ai entendu un bruit \u00e9trange, puis la voiture est soudainement sortie de route. Apr\u00e8s \u00e7a, je me souviens surtout des vitres cass\u00e9es et de quelqu'un qui criait mon nom.",
+      "production_ground_truth": "I heard a strange noise, then the car suddenly spun. After that, I mainly remember shattered glass and someone shouting my name.",
+      "production_transcript": "I heard a strange noise, the car spun, and then I remember shards everywhere and someone shouting my name.",
+      "production_accuracy": 0.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "I heard a strange noise, then the car suddenly spun. After that, I mainly remember shattered glass and someone shouting my name.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "9",
+      "utterance_index": 9,
+      "dialogue_index": 9,
+      "dialogue_utterance_index": 9,
+      "source_text": "Le paquet a \u00e9t\u00e9 marqu\u00e9 comme livr\u00e9, mais rien n'\u00e9tait \u00e0 la porte, donc j'ai attendu en vain et maintenant je dois appeler le service client.",
+      "production_ground_truth": "The package was marked delivered, but nothing was at the door, so I waited for nothing and now have to call customer service.",
+      "production_transcript": "The delivery driver told me to come pick up the package, but there was nothing there. So I wasted time waiting and now, must call customer service.",
+      "production_accuracy": 0.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "The package was marked delivered, but nothing was at the door, so I waited for nothing and now have to call customer service.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "base_challenge_uid": "challenge-1784535696-1b911b82",
+  "epoch": 747,
+  "locales": [
+    "fr",
+    "de"
+  ],
+  "paths": [
+    "api_challenges/challenge-1784535696-1b911b82-de/stages/arena/challenge.json",
+    "api_challenges/challenge-1784535696-1b911b82-de/stages/qualifying/challenge.json",
+    "api_challenges/challenge-1784535696-1b911b82/stages/arena/challenge.json",
+    "api_challenges/challenge-1784535696-1b911b82/stages/qualifying/challenge.json"
+  ],
+  "derived_from": "results.babelbit.ai/dialogue-scores+local-chatterbox-tts",
+  "tts": "ResembleAI/chatterbox-multilingual local",
+  "translate": "Qwen/Qwen2.5-3B-Instruct local"
+}
