@@ -1,0 +1,46 @@
+{
+  "challenge_uid": "challenge-1783757535-edb2c654",
+  "language": "fr",
+  "source_language": "fr",
+  "target_language": "en",
+  "derived_from": "results.babelbit.ai/dialogue-scores+deepinfra-tts",
+  "dialogues": [],
+  "utterances": [
+    {
+      "utterance_id": "0",
+      "utterance_index": 0,
+      "dialogue_index": 0,
+      "dialogue_utterance_index": 0,
+      "source_text": "On duplique certains t\u00e2ches de suivi, ce qui gaspille du temps, donc les responsabilit\u00e9s doivent \u00eatre clarifi\u00e9es.",
+      "production_ground_truth": "On are duplicating some follow-up tasks, which wastes time, so responsibilities need to be clarified.",
+      "production_transcript": "on our duplicating some follow-up tasks, which wastes time, so responsive",
+      "production_accuracy": 0.7756,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "On are duplicating some follow-up tasks, which wastes time, so responsibilities need to be clarified.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "1",
+      "utterance_index": 1,
+      "dialogue_index": 1,
+      "dialogue_utterance_index": 1,
+      "source_text": "La partie dr\u00f4le, c'est que, apr\u00e8s avoir manqu\u00e9 le dernier bus, j'ai crois\u00e9 mon ancien professeur.",
+      "production_ground_truth": "The funny part is that after missing the last bus, I ran into my former teacher.",
+      "production_transcript": "The funny part is that after missing the last bus, I re-",
+      "production_accuracy": 0.7867,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "The funny part is that after missing the last bus, I ran into my former teacher.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    }
+  ]
+}

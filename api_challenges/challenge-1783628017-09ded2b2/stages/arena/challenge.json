@@ -1,0 +1,190 @@
+{
+  "challenge_uid": "challenge-1783628017-09ded2b2",
+  "language": "fr",
+  "source_language": "fr",
+  "target_language": "en",
+  "derived_from": "results.babelbit.ai/dialogue-scores+deepinfra-tts",
+  "dialogues": [],
+  "utterances": [
+    {
+      "utterance_id": "0",
+      "utterance_index": 0,
+      "dialogue_index": 0,
+      "dialogue_utterance_index": 0,
+      "source_text": "Sur le dossier client, mon point de vue est que si nous approuvons les \u00e9l\u00e9ments prioritaires aujourd'hui, nous pouvons livrer lundi sans risque excessif.",
+      "production_ground_truth": "On the client file, my point is that if we approve the priority items today, we can deliver on Monday without undue risk.",
+      "production_transcript": "If we validate only the priority part today, we can deliver on Monday without taking risks.",
+      "production_accuracy": 0.9998,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "On the client file, my point is that if we approve the priority items today, we can deliver on Monday without undue risk.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "1",
+      "utterance_index": 1,
+      "dialogue_index": 1,
+      "dialogue_utterance_index": 1,
+      "source_text": "La derni\u00e8re fois que j'ai vu le chien dans la ruelle, j'ai appris qu'il guidait les invit\u00e9s \u00e0 un mariage.",
+      "production_ground_truth": "The other evening, I learned that the dog I saw in the alley was actually guiding guests to a wedding.",
+      "production_transcript": "The other night, I saw a dog wearing a hat leading guests to a wedding.",
+      "production_accuracy": 1.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "The other evening, I learned that the dog I saw in the alley was actually guiding guests to a wedding.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "2",
+      "utterance_index": 2,
+      "dialogue_index": 2,
+      "dialogue_utterance_index": 2,
+      "source_text": "Je voudrais pr\u00e9senter les r\u00e9sultats : les retards ont diminu\u00e9, ce qui sugg\u00e8re que la nouvelle proc\u00e9dure fonctionne.",
+      "production_ground_truth": "I'd like to present the results: delays have decreased, which suggests the new procedure is working.",
+      "production_transcript": "The results show a relative decrease in delays, indicating that the new procedure is working.",
+      "production_accuracy": 0.9999,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "I'd like to present the results: delays have decreased, which suggests the new procedure is working.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "3",
+      "utterance_index": 3,
+      "dialogue_index": 3,
+      "dialogue_utterance_index": 3,
+      "source_text": "Il est \u00e9vident que nous ne pouvons plus continuer \u00e0 payer davantage pour un service qui fonctionne mal ; nous devons changer de fournisseur maintenant.",
+      "production_ground_truth": "It's obvious we cannot keep paying more for a service that performs poorly; we need to change providers now.",
+      "production_transcript": "We can't continue paying more for a poorly functioning service and must switch providers now.",
+      "production_accuracy": 0.9998,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "It's obvious we cannot keep paying more for a service that performs poorly; we need to change providers now.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "4",
+      "utterance_index": 4,
+      "dialogue_index": 4,
+      "dialogue_utterance_index": 4,
+      "source_text": "Quand j'\u00e9tais jeune, on prenait les trains de bonne heure, et ma m\u00e8re insistait toujours pour qu'on emporte une pomme pour le voyage.",
+      "production_ground_truth": "When I was young, we took early trains, and my mother always insisted we carry an apple for the journey.",
+      "production_transcript": "When I was young we would take early trains with hard wooden benches and my mother used to say to keep an apple in your pocket I still say to have an apple for the journey",
+      "production_accuracy": 1.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "When I was young, we took early trains, and my mother always insisted we carry an apple for the journey.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "5",
+      "utterance_index": 5,
+      "dialogue_index": 5,
+      "dialogue_utterance_index": 5,
+      "source_text": "La m\u00e9moire cache fonctionne en conservant les donn\u00e9es fr\u00e9quemment utilis\u00e9es \u00e0 port\u00e9e de main afin que l'ordinateur puisse r\u00e9agir plus rapidement.",
+      "production_ground_truth": "Cache memory works by keeping frequently used data close at hand so the computer can respond faster.",
+      "production_transcript": "The cache, or temporary memory, is like keeping cups next to the machine instead of going to the cabinet each time, so the computer keeps data close to respond faster.",
+      "production_accuracy": 1.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "Cache memory works by keeping frequently used data close at hand so the computer can respond faster.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "6",
+      "utterance_index": 6,
+      "dialogue_index": 6,
+      "dialogue_utterance_index": 6,
+      "source_text": "J'ai \u00e9t\u00e9 compl\u00e8tement \u00e9merveill\u00e9 par ce film et tellement absorb\u00e9 que j'ai manqu\u00e9 mon arr\u00eat en rentrant chez moi.",
+      "production_ground_truth": "I was unexpectedly blown away by that film and was so absorbed I missed my stop on the way home.",
+      "production_transcript": "The movie deeply impressed me, starting confusingly and then becoming completely intense, capturing my attention so thoroughly that I missed my stop on the way back.",
+      "production_accuracy": 1.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "I was unexpectedly blown away by that film and was so absorbed I missed my stop on the way home.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "7",
+      "utterance_index": 7,
+      "dialogue_index": 7,
+      "dialogue_utterance_index": 7,
+      "source_text": "\u00c0 cette \u00e9tape, plusieurs options restent en consid\u00e9ration et aucune d\u00e9cision officielle n'a encore \u00e9t\u00e9 prise.",
+      "production_ground_truth": "At this stage, several options remain under consideration, and no formal decision has been made.",
+      "production_transcript": "Some options are not entirely excluded at this stage, though no formal decision has been made yet.",
+      "production_accuracy": 0.9999,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "At this stage, several options remain under consideration, and no formal decision has been made.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "8",
+      "utterance_index": 8,
+      "dialogue_index": 8,
+      "dialogue_utterance_index": 8,
+      "source_text": "J'ai entendu l'impact, puis tout s'est pass\u00e9 tr\u00e8s vite ; parmi les morceaux de verre et les cris, j'ai r\u00e9alis\u00e9 qu'il ne bougeait plus.",
+      "production_ground_truth": "I heard the impact, and then everything happened very fast; amid the shattered glass and shouting, I realized he was no longer moving.",
+      "production_transcript": "Tite was in a car accident because he was going too fast. After the crash, there were screams, someone called for my sister, and I saw that he was no longer moving.",
+      "production_accuracy": 0.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "I heard the impact, and then everything happened very fast; amid the shattered glass and shouting, I realized he was no longer moving.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterance_id": "9",
+      "utterance_index": 9,
+      "dialogue_index": 9,
+      "dialogue_utterance_index": 9,
+      "source_text": "Vivre avec ces colocataires est devenu impossible, car l'un d'eux prend constamment mon lait et laisse des vaisselles sales derri\u00e8re lui comme si c'\u00e9tait normal.",
+      "production_ground_truth": "Living with these roommates has become impossible because one of them keeps taking my milk and leaving dirty dishes behind as if it were normal.",
+      "production_transcript": "The roommate situation is untenable. One always takes milk, leaves dirty dishes, and reacts casually to complaints. Abusive",
+      "production_accuracy": 1.0,
+      "utterance_translations": [
+        {
+          "language": "en",
+          "text": "Living with these roommates has become impossible because one of them keeps taking my milk and leaving dirty dishes behind as if it were normal.",
+          "reference_wps": 4.0,
+          "words": []
+        }
+      ]
+    }
+  ]
+}
