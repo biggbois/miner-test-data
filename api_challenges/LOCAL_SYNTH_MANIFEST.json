@@ -14,6 +14,7 @@
     "/root/babelbit/miner-test-data/api_challenges/challenge-1784535696-1b911b82-de/stages/qualifying/challenge.json",
     "/root/babelbit/miner-test-data/api_challenges/challenge-1784535696-1b911b82-de/stages/arena/challenge.json"
   ],
-  "derived_from": "hand-translations+local-chatterbox-tts",
+  "derived_from": "hand-translations+edge-tts",
+  "edge_rate": "-10%",
   "translations_file": "/root/babelbit/miner-test-data/api_challenges/HAND_TRANSLATIONS_challenge-1784535696-1b911b82.json"
 }
