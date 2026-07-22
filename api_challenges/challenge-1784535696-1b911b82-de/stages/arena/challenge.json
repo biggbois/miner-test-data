@@ -3,7 +3,7 @@
   "language": "de",
   "source_language": "de",
   "target_language": "en",
-  "derived_from": "results.babelbit.ai/dialogue-scores+local-chatterbox-tts",
+  "derived_from": "hand-translations+local-chatterbox-tts",
   "dialogues": [],
   "utterances": [
     {
@@ -11,10 +11,10 @@
       "utterance_index": 0,
       "dialogue_index": 0,
       "dialogue_utterance_index": 0,
-      "source_text": "Wir sind ein bisschen auf dem Clientdokument zur\u00fcckgekommen, also m\u00fcsste die Genehmigung auf n\u00e4chste Woche verschoben werden.",
+      "source_text": "Wir liegen beim Kundendossier etwas zur\u00fcck, daher muss die Freigabe auf n\u00e4chste Woche verschoben werden.",
       "production_ground_truth": "On are slightly behind on the client file, so the approval will need to be moved to next week.",
       "production_transcript": "",
-      "production_accuracy": 0.0,
+      "production_accuracy": null,
       "utterance_translations": [
         {
           "language": "en",
@@ -29,10 +29,10 @@
       "utterance_index": 1,
       "dialogue_index": 1,
       "dialogue_utterance_index": 1,
-      "source_text": "Ich bin ausgegangen, um Brot zu kaufen, wurde abgelenkt durch ein Gespr\u00e4ch mit der Nachbarn und habe den B\u00e4cker ganz vergessen.",
+      "source_text": "Ich bin rausgegangen, um Brot zu kaufen, habe mich in ein Gespr\u00e4ch mit dem Nachbarn verwickelt und die B\u00e4ckerei v\u00f6llig vergessen.",
       "production_ground_truth": "I went out to buy bread, got sidetracked by a chat with the neighbor, and ended up forgetting the bakery entirely.",
       "production_transcript": "",
-      "production_accuracy": 0.0,
+      "production_accuracy": null,
       "utterance_translations": [
         {
           "language": "en",
@@ -47,10 +47,10 @@
       "utterance_index": 2,
       "dialogue_index": 2,
       "dialogue_utterance_index": 2,
-      "source_text": "Danke, dass Sie hier sind. Ich werde zun\u00e4chst das Projekt beschreiben, dann den Budget und den Zeitplan abstimmen.",
+      "source_text": "Danke, dass Sie da sind. Ich stelle zuerst das Projekt vor und gehe dann auf Budget und Zeitplan ein.",
       "production_ground_truth": "Thank you for being here. I\u2019ll first outline the project, then cover the budget and timeline.",
       "production_transcript": "",
-      "production_accuracy": 0.0,
+      "production_accuracy": null,
       "utterance_translations": [
         {
           "language": "en",
@@ -65,10 +65,10 @@
       "utterance_index": 3,
       "dialogue_index": 3,
       "dialogue_utterance_index": 3,
-      "source_text": "Wir k\u00f6nnen nicht so weiter machen: die Wartung zu reduzieren bringt sehr wenig und f\u00fchrt zu gro\u00dfen Ausf\u00e4llen sp\u00e4ter.",
+      "source_text": "So k\u00f6nnen wir nicht weitermachen: Weniger Wartung spart kaum etwas und f\u00fchrt sp\u00e4ter zu schweren Ausf\u00e4llen.",
       "production_ground_truth": "We cannot keep doing this: cutting maintenance saves very little and leads to major breakdowns later.",
-      "production_transcript": "We cannot continue this unsustainable maintenance cut. It wastes resources and causes the system to fail immediately.",
-      "production_accuracy": 0.0,
+      "production_transcript": "",
+      "production_accuracy": null,
       "utterance_translations": [
         {
           "language": "en",
@@ -83,10 +83,10 @@
       "utterance_index": 4,
       "dialogue_index": 4,
       "dialogue_utterance_index": 4,
-      "source_text": "Ich erinnere mich noch an das alte Bahnhof; wir verbrachten Sonntage dort mit meinem Bruder und sa\u00dfen f\u00fcr Stunden im kleinen Caf\u00e9 drinnen.",
+      "source_text": "Ich erinnere mich noch an den alten Bahnhof; dort verbrachten wir Sonntage mit meinem Bruder und blieben stundenlang in dem kleinen Caf\u00e9.",
       "production_ground_truth": "I still remember the old station; we spent Sundays there with my brother and stayed for hours in its little caf\u00e9.",
-      "production_transcript": "I still remember going to the old station with my brother on Sundays, staying there for hours at the simple Buffett.",
-      "production_accuracy": 0.0,
+      "production_transcript": "",
+      "production_accuracy": null,
       "utterance_translations": [
         {
           "language": "en",
@@ -101,10 +101,10 @@
       "utterance_index": 5,
       "dialogue_index": 5,
       "dialogue_utterance_index": 5,
-      "source_text": "Der Cache ist eine kleine Speichereinheit nahe dem Prozessor, die Dinge beschleunigt, indem sie h\u00e4ufig verwendete Daten nah am Handteller beibeh\u00e4lt.",
+      "source_text": "Der Cache ist ein kleiner Speicher nahe am Prozessor, der Dinge beschleunigt, indem oft genutzte Daten griffbereit gehalten werden.",
       "production_ground_truth": "Cache is a small memory store near the processor that speeds things up by keeping frequently used data close at hand.",
-      "production_transcript": "Cache is a small storage near the processor to keep frequently accessed data ready, avoiding the need to fetch it from elsewhere.",
-      "production_accuracy": 0.0,
+      "production_transcript": "",
+      "production_accuracy": null,
       "utterance_translations": [
         {
           "language": "en",
@@ -119,10 +119,10 @@
       "utterance_index": 6,
       "dialogue_index": 6,
       "dialogue_utterance_index": 6,
-      "source_text": "Zuerst war das Filmst\u00fcck verwirrend, aber dann verband sich alles und es herausstie\u00df als sehr clever.",
+      "source_text": "Am Anfang war der Film verwirrend, aber dann f\u00fcgte sich alles zusammen und er erwies sich als sehr klug.",
       "production_ground_truth": "At first the film was confusing, but then everything connected and it turned out to be very clever.",
-      "production_transcript": "The movie started confusingly, but then everything connected and became surprisingly smart.",
-      "production_accuracy": 0.0,
+      "production_transcript": "",
+      "production_accuracy": null,
       "utterance_translations": [
         {
           "language": "en",
@@ -137,10 +137,10 @@
       "utterance_index": 7,
       "dialogue_index": 7,
       "dialogue_utterance_index": 7,
-      "source_text": "Es gab Probleme, aber man hat Anpassungen getroffen und es k\u00f6nnte bald teilweise wieder Gespr\u00e4che geben.",
+      "source_text": "Es gab Probleme, aber Anpassungen wurden vorgenommen und die Gespr\u00e4che k\u00f6nnten bald teilweise wieder aufgenommen werden.",
       "production_ground_truth": "There were problems, but adjustments have been made and talks may partially resume soon.",
-      "production_transcript": "While difficulties were encountered, adjustments have been made, allowing for a partial resumption of exchanges soon.",
-      "production_accuracy": 0.0,
+      "production_transcript": "",
+      "production_accuracy": null,
       "utterance_translations": [
         {
           "language": "en",
@@ -155,10 +155,10 @@
       "utterance_index": 8,
       "dialogue_index": 8,
       "dialogue_utterance_index": 8,
-      "source_text": "Ich h\u00f6rte einen seltsamen Laut, dann fuhr der Wagen pl\u00f6tzlich um. Danach erinnere ich mich haupts\u00e4chlich an zerbrochenen Glassplittern und jemanden, der meinen Namen schrie.",
+      "source_text": "Ich h\u00f6rte ein seltsames Ger\u00e4usch, dann drehte sich das Auto pl\u00f6tzlich. Danach erinnere ich mich vor allem an zersplittertes Glas und jemanden, der meinen Namen schrie.",
       "production_ground_truth": "I heard a strange noise, then the car suddenly spun. After that, I mainly remember shattered glass and someone shouting my name.",
-      "production_transcript": "I heard a strange noise, the car spun, and then I remember shards everywhere and someone shouting my name.",
-      "production_accuracy": 0.0,
+      "production_transcript": "",
+      "production_accuracy": null,
       "utterance_translations": [
         {
           "language": "en",
@@ -173,10 +173,10 @@
       "utterance_index": 9,
       "dialogue_index": 9,
       "dialogue_utterance_index": 9,
-      "source_text": "Das Paket wurde als versandt markiert, aber nichts war am Tor, also habe ich nichts gewartet und muss jetzt die Kundenserviceleistung anrufen.",
+      "source_text": "Das Paket war als zugestellt markiert, aber an der T\u00fcr lag nichts, also habe ich umsonst gewartet und muss jetzt den Kundenservice anrufen.",
       "production_ground_truth": "The package was marked delivered, but nothing was at the door, so I waited for nothing and now have to call customer service.",
-      "production_transcript": "The delivery driver told me to come pick up the package, but there was nothing there. So I wasted time waiting and now, must call customer service.",
-      "production_accuracy": 0.0,
+      "production_transcript": "",
+      "production_accuracy": null,
       "utterance_translations": [
         {
           "language": "en",

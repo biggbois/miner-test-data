@@ -1,0 +1,66 @@
+{
+  "challenge_uid": "challenge-1784535696-1b911b82",
+  "note": "Hand-corrected spoken translations for fixture TTS. EN ground_truth kept as API scoring target.",
+  "utterances": [
+    {
+      "utterance_id": "0",
+      "en": "On are slightly behind on the client file, so the approval will need to be moved to next week.",
+      "fr": "Nous sommes légèrement en retard sur le dossier client, donc l'approbation devra être reportée à la semaine prochaine.",
+      "de": "Wir liegen beim Kundendossier etwas zurück, daher muss die Freigabe auf nächste Woche verschoben werden."
+    },
+    {
+      "utterance_id": "1",
+      "en": "I went out to buy bread, got sidetracked by a chat with the neighbor, and ended up forgetting the bakery entirely.",
+      "fr": "Je suis sorti pour acheter du pain, je me suis laissé distraire par une discussion avec le voisin, et j'ai fini par complètement oublier la boulangerie.",
+      "de": "Ich bin rausgegangen, um Brot zu kaufen, habe mich in ein Gespräch mit dem Nachbarn verwickelt und die Bäckerei völlig vergessen."
+    },
+    {
+      "utterance_id": "2",
+      "en": "Thank you for being here. I’ll first outline the project, then cover the budget and timeline.",
+      "fr": "Merci d'être là. Je vais d'abord présenter le projet, puis aborder le budget et le calendrier.",
+      "de": "Danke, dass Sie da sind. Ich stelle zuerst das Projekt vor und gehe dann auf Budget und Zeitplan ein."
+    },
+    {
+      "utterance_id": "3",
+      "en": "We cannot keep doing this: cutting maintenance saves very little and leads to major breakdowns later.",
+      "fr": "On ne peut pas continuer comme ça : réduire la maintenance fait très peu d'économies et entraîne de grosses pannes plus tard.",
+      "de": "So können wir nicht weitermachen: Weniger Wartung spart kaum etwas und führt später zu schweren Ausfällen."
+    },
+    {
+      "utterance_id": "4",
+      "en": "I still remember the old station; we spent Sundays there with my brother and stayed for hours in its little café.",
+      "fr": "Je me souviens encore de l'ancienne gare ; on y passait les dimanches avec mon frère et on restait des heures dans son petit café.",
+      "de": "Ich erinnere mich noch an den alten Bahnhof; dort verbrachten wir Sonntage mit meinem Bruder und blieben stundenlang in dem kleinen Café."
+    },
+    {
+      "utterance_id": "5",
+      "en": "Cache is a small memory store near the processor that speeds things up by keeping frequently used data close at hand.",
+      "fr": "Le cache est une petite mémoire près du processeur qui accélère le système en gardant les données fréquemment utilisées à portée de main.",
+      "de": "Der Cache ist ein kleiner Speicher nahe am Prozessor, der Dinge beschleunigt, indem oft genutzte Daten griffbereit gehalten werden."
+    },
+    {
+      "utterance_id": "6",
+      "en": "At first the film was confusing, but then everything connected and it turned out to be very clever.",
+      "fr": "Au début, le film était confus, mais ensuite tout s'est relié et ça s'est révélé très malin.",
+      "de": "Am Anfang war der Film verwirrend, aber dann fügte sich alles zusammen und er erwies sich als sehr klug."
+    },
+    {
+      "utterance_id": "7",
+      "en": "There were problems, but adjustments have been made and talks may partially resume soon.",
+      "fr": "Il y avait des problèmes, mais des ajustements ont été faits et les discussions pourraient reprendre en partie bientôt.",
+      "de": "Es gab Probleme, aber Anpassungen wurden vorgenommen und die Gespräche könnten bald teilweise wieder aufgenommen werden."
+    },
+    {
+      "utterance_id": "8",
+      "en": "I heard a strange noise, then the car suddenly spun. After that, I mainly remember shattered glass and someone shouting my name.",
+      "fr": "J'ai entendu un bruit étrange, puis la voiture a soudain fait un tête-à-queue. Après ça, je me souviens surtout de vitres brisées et de quelqu'un qui criait mon nom.",
+      "de": "Ich hörte ein seltsames Geräusch, dann drehte sich das Auto plötzlich. Danach erinnere ich mich vor allem an zersplittertes Glas und jemanden, der meinen Namen schrie."
+    },
+    {
+      "utterance_id": "9",
+      "en": "The package was marked delivered, but nothing was at the door, so I waited for nothing and now have to call customer service.",
+      "fr": "Le colis était marqué comme livré, mais il n'y avait rien à la porte, donc j'ai attendu pour rien et maintenant je dois appeler le service client.",
+      "de": "Das Paket war als zugestellt markiert, aber an der Tür lag nichts, also habe ich umsonst gewartet und muss jetzt den Kundenservice anrufen."
+    }
+  ]
+}
