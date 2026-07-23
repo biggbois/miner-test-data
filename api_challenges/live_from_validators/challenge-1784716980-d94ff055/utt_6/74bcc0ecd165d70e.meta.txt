@@ -1,0 +1,5 @@
+challenge_uid=challenge-1784716980-d94ff055
+utterance_id=6
+session_id=b54917f6-7777-4716-a076-daff5de351f5
+sample_rate_hz=24000
+reason=out_eos
