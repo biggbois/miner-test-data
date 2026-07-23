@@ -1,0 +1,5 @@
+challenge_uid=solo-challenge-1784667768-a992d144
+utterance_id=1
+session_id=6d22416a-bd50-4bf9-b40d-be067ed53767
+sample_rate_hz=24000
+reason=idle timeout
