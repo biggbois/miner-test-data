@@ -1,0 +1,5 @@
+challenge_uid=solo-challenge-1784642208-6c4892df
+utterance_id=9
+session_id=b1b61fe4-31ca-4a66-8075-64070fdb8a3f
+sample_rate_hz=24000
+reason=out_eos
